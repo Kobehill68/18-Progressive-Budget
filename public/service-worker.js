@@ -1,7 +1,7 @@
 const FILES_TO_CACHE = [
     "/",
     "/index.html",
-    "manifest.wedmanifest",
+    "manifest.webmanifest",
     "/dist/bundle.js",
     "/styles.css",
     "/icons/icon-192x192.png",
